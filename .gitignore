@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Mac
+.DS_Store
+
+# PyCharm
+.idea/
+
+#rasa/
+#rasa_sdk/
+
+/test.py
+convert_data.py
+
+env_var.sh
