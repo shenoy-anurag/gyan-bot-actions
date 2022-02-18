@@ -1,1 +1,1 @@
-web: python rasa_sdk/endpoint.py
+web: python -m rasa_sdk --actions actions -p $PORT
