@@ -1,1 +1,1 @@
-web: python -m rasa_sdk --actions actions -p $PORT
+web: python -m rasa_sdk --actions actions
