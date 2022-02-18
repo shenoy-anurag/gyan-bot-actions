@@ -1,1 +1,1 @@
-web: python -m rasa_sdk --actions actions
+web: python rasa_sdk/endpoint.py
