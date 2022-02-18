@@ -1,1 +1,1 @@
-web: python -m rasa_sdk --actions actions
+worker: python -m rasa_sdk --actions actions
